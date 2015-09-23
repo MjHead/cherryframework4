@@ -12,6 +12,7 @@
 <head>
 
 <?php wp_head(); ?>
+
 </head>
 
 <body <?php cherry_attr( 'body' ); ?>>
